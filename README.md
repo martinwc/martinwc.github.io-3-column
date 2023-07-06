@@ -46,7 +46,7 @@ Using Grid template columns was a challenge. After some self research, I was abl
 
 ### Continued development
 
-Cotinue to work on CSS grid columns and implement a more responsive website
+Continue to work on CSS grid columns and implement a more responsive website
 
 ## Author
 
